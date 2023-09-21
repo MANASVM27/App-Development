@@ -1,0 +1,9 @@
+.leftbar-container{
+    padding: auto;
+    border-spacing: 5px;
+    background-color:  #470e12;
+    display: flex;
+    width: 150px;
+    height: 100vh;
+    color: white;
+}
